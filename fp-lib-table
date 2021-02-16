@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Boards)(type KiCad)(uri ${KIPRJMOD}/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/Footprints)(options "")(descr ""))
+  (lib (name Microfluids)(type KiCad)(uri C:/Users/Halha/OneDrive/Documents/KiCAD/Rocketry/Microfluids)(options "")(descr ""))
+)
